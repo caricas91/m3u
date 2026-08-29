@@ -17,8 +17,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="3" group-title="TV" tvg-id="SIC.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png",SIC
-#EXTVLCOPT:http-referrer=https://sic.pt/
-https://sic.live.impresa.pt/sic1080p.m3u8
+https://sic.live.impresa.pt/sic1080p.m3u8|Referer=https://sic.pt/
 
 #EXTINF:-1 tvg-chno="4" group-title="TV" tvg-id="TVI.pt" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2019/04/tvi-logo.jpg",TVI
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Linux x86_64; rv:152.0) Gecko/20100101 Firefox/152.0"
